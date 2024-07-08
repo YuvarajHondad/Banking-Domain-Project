@@ -1,1 +1,1 @@
-# Banking-Domain-Project
+DBMS project
